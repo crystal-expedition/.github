@@ -1,6 +1,6 @@
 # We Moved! 🎉
 
-You can now find us at [Calculating Chaos](https://github.com/calculating-chaos)
+You can now find us at [Calculating Chaos](https://github.com/calculatingchaos)
 
 ## Why the name change?
 
