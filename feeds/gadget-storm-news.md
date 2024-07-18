@@ -42,5 +42,5 @@ Quick fix for the News Panel
 
 # We Moved! | 🗓️ Jun 28, 2024
 
-You can now find us at [Calculating Chaos](https://github.com/calculatingchaos).
-Still working on 0.6.0 and it's coming along nicely; follow us on Discord for more info!
+- ℹ️ You can now find us at [Calculating Chaos](https://github.com/calculatingchaos).
+- 🛠️ We're Still working on 0.6.0 and are posting updates in Discord each day!
