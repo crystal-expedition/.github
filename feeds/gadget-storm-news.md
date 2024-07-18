@@ -40,6 +40,7 @@ Quick fix for the News Panel
 
 - 📦 [More Info + Download Link](https://github.com/orgs/crystal-expedition/discussions/7)
 
-# We Moved! 🎉
+# We Moved! | 🗓️ Jun 28, 2024
 
-You can now find us at [Calculating Chaos](https://github.com/calculatingchaos)
+You can now find us at [Calculating Chaos](https://github.com/calculatingchaos).
+Still working on 0.6.0 and it's coming along nicely; follow us on Discord for more info!
