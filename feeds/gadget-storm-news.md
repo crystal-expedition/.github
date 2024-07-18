@@ -39,3 +39,7 @@ Notifications and Full Keyboard/Controller Navigation added.
 Quick fix for the News Panel
 
 - 📦 [More Info + Download Link](https://github.com/orgs/crystal-expedition/discussions/7)
+
+# We Moved! 🎉
+
+You can now find us at [Calculating Chaos](https://github.com/calculatingchaos)
